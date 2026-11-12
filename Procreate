@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Procreate</title>
+</head>
+<body>
+
+<header>
+    <h1>Dibujo digital</h1>
+    <img src="imagenes/paint logo.jpg" alt="logo paint">
+</header>
+
+    <nav>
+        <ul>
+<li><a href="index.html">Inicio</a></li>
+<li><a href="page1">Pagina 1</a></li>
+<li><a href="page2">Pagina 2</a></li>
+<li><a href="page3">Pagina 3</a></li>
+        </ul>
+    </nav>
+
+<h2> Procreate </h2>
+<p>Procreate salio el 16 de marzo de 2011. A pesar de ser una aplicación de pago, Procreate es muy popular entre los artistas gracias a su intefaz simple y su gran variedad de herramientas.</p>
+<p>Procreate tambien cuenta con una segunda aplicación (tambien de pago) diseñada especificamente para hacer animaciones</p>
+
+
+<footer>
+<h6>Nuestra información:</h6>
+<ul>
+<li><p>Gmail: suportrealartists@gmail.com</p></li>
+<li><p>Número: +54 11 393 424 567</p></li>
+<li><p>Copyright suportrealartists 2026 ©</p></li>
+</ul>
+</footer>
+
+</body>
+</html>
