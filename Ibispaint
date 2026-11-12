@@ -7,6 +7,11 @@
 </head>
 <body>
 
+<header>
+    <h1>Dibujo digital</h1>
+    <img src="imagenes/paint logo.jpg" alt="logo paint">
+</header>
+
     <nav>
         <ul>
 <li><a href="index.html">Inicio</a></li>
@@ -16,7 +21,20 @@
         </ul>
     </nav>
 
+<h2> Ibis paint </h2>
+<p>Ibis paint salio el 21 de junio de</p>
 
+
+
+
+<footer>
+<h6>Nuestra información:</h6>
+<ul>
+<li><p>Gmail: suportrealartists@gmail.com</p></li>
+<li><p>Número: +54 11 393 424 567</p></li>
+<li><p>Copyright suportrealartists 2026 ©</p></li>
+</ul>
+</footer>
 
 </body>
 </html>
